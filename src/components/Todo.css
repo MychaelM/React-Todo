@@ -1,0 +1,12 @@
+.todo {
+  background-color:steelblue;
+  padding: 20px;
+  margin: 10px 0;
+  border: 1px solid steelblue;
+  width: 150px;
+}
+
+.todo.completed {
+  text-decoration: line-through;
+  background-color: aquamarine;
+}
